@@ -3,6 +3,24 @@
 [![Build Status](https://travis-ci.org/SciLifeLab/NGI-smRNAseq.svg?branch=master)](https://travis-ci.org/SciLifeLab/NGI-smRNAseq)
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A50.22.2-brightgreen.svg)](https://www.nextflow.io/)
 
+# This pipeline has moved
+
+This pipeline has been moved to the new `nf-core` GitHub organisation. You can now
+find it here:
+
+### https://github.com/nf-core/smrnaseq
+
+This repository will be archived to maintain the release version for future
+reproducibility, to allow reruns.
+
+If you have any questions, please get in touch: support@ngisweden.se
+
+// Phil Ewels, 2018-07-12
+
+---
+
+
+
 **NGI-smRNAseq** is a bioinformatics best-practice analysis pipeline used for small RNA sequencing data at the [National Genomics Infastructure](https://ngisweden.scilifelab.se/)
 at [SciLifeLab Stockholm](https://www.scilifelab.se/platforms/ngi/), Sweden.
 
